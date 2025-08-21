@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Malware-Examples  
 A collection of malware/viruses/spyware code (not for real use) designed to teach malware analysis
 
